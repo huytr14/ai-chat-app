@@ -84,7 +84,7 @@ backend/
 
 ### 1️⃣ Clone the repository
 ```bash
-git clone https://github.com/<your-username>/ai-chat-app.git
+git clone https://github.com/huytr14/ai-chat-app.git
 cd ai-chat-app
 ```
 
